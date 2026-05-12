@@ -1,3 +1,3 @@
 # pullshark-practice
 
-hey
+Learning GitHub achievements
